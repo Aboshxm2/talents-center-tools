@@ -1,0 +1,25 @@
+{
+  "_about": "Editable settings for the letters. Change a value here and every new letter follows it. Keys starting with _ are notes only.",
+
+  "header_unit_line": "مركز الموهبة والإبداع والتميز",
+  "_header_unit_line": "Printed in blue under «عمادة شؤون الطلاب» at the top right of the letterhead. Set to \"\" to leave the template header untouched.",
+
+  "signature_title": "مشرفة مركز الموهبة والإبداع والتميز",
+  "signature_name": "د. مروة دليم الحربي",
+  "_signature": "Template wording, confirmed by the center (2026-11-02).",
+
+  "body_font_size": 12,
+  "_body_font_size": "Body text size in points (the template's own default was 11). Addressee and greeting are printed 1pt larger, closing and signature at least 14pt.",
+
+  "default_greeting": "السلام عليكم ورحمة الله وبركاته",
+  "default_closing": "وتفضلوا بقبول خالص التحية والتقدير،،،",
+
+  "greeting_font": "",
+  "_greeting_font": "Leave empty to use the template font (Tosh A Medium). For the calligraphic salam seen on earlier letters use \"DecoType Naskh Variants\" (must be installed on the computer that opens the file).",
+
+  "contact": {
+    "name": "د/ مروة الحربي",
+    "mobile": "0544650166"
+  },
+  "_contact": "Used for the «للتواصل» line when a letter asks the recipient to coordinate or reply and no other contact person is given."
+}

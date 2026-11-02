@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: formal-email-followup
+expected_outcome: |
+  A formal Arabic email (not a Word letter) to Mawhiba with a subject line, greeting, a
+  polite follow-up on the earlier letter about «برنامج الجاهزية التنافسية» without blame, a
+  note that the program starts soon without inventing a date, a request for a reply, and the
+  email signature from the skill.

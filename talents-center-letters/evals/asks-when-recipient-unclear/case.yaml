@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: asks-when-recipient-unclear
+expected_outcome: |
+  The recipient and key details are unclear, so the skill asks one short question in Arabic
+  (who the letter is to, and the event date/hall) instead of producing a letter to a guessed
+  recipient.

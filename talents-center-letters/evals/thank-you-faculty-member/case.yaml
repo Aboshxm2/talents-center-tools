@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: thank-you-faculty-member
+expected_outcome: |
+  A warm but formal thank-you letter on the letterhead to سعادة الدكتور/ خالد العمري
+  (college kept as given), thanking him specifically for the AI lecture at the third
+  talented-students forum and for judging projects; colloquial praise rendered as measured
+  formal praise; thank-you closing; no contact line; no invented details such as dates or
+  numbers.

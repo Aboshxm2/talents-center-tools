@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: sponsorship-request-company
+expected_outcome: |
+  A Word letter on the letterhead addressed to stc with a correct honorific; formal Arabic;
+  the two requests (financial support for prizes, engineers as mentors and judges) as clear
+  points; 3 days and about 200 male and female students kept; 'next week' turned into a
+  highlighted placeholder instead of an invented date; contact line with الأستاذة هيفاء and
+  0551234567 exactly; no invented benefits or facts; short reply in Arabic listing what to
+  review.

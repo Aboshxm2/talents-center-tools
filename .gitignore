@@ -1,0 +1,9 @@
+# Signed letters (handwritten signatures) and PDF exports stay out of this public repo
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Packaging by-product (the .zip is the file to upload)
+*.skill
